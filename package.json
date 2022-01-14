@@ -1,7 +1,7 @@
 {
-  "name": "google-play-billing-validator",
-  "version": "2.1.3",
-  "description": "Server side for (Node.js) solution to validate Google Play Purchases and Subscriptions",
+  "name": "joy-google-play-validator",
+  "version": "0.0.1",
+  "description": "joy gp",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
@@ -22,8 +22,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Deishelon/google-play-billing-validator"
+    "url": "git+https://github.com/acgpiano/google-play-billing-validator"
   },
-  "author": "Deishelon",
+  "author": "acgpiano",
   "license": "ISC"
 }
