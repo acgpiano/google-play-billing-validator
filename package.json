@@ -16,7 +16,9 @@
     "valid"
   ],
   "dependencies": {
-    "google-oauth-jwt": "^0.1.6"
+    "debug": "^4.3.3",
+    "request": "^2.88.2",
+    "socks-proxy-agent": "^6.1.1"
   },
   "repository": {
     "type": "git",
