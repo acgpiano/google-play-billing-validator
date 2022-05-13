@@ -1,6 +1,6 @@
 {
   "name": "joy-google-play-validator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "joy gp",
   "main": "index.js",
   "types": "index.d.ts",
@@ -16,9 +16,9 @@
     "valid"
   ],
   "dependencies": {
-    "debug": "^4.3.3",
-    "request": "^2.88.2",
-    "socks-proxy-agent": "^6.1.1"
+    "debug": "4.3.3",
+    "request": "2.88.2",
+    "socks-proxy-agent": "6.1.1"
   },
   "repository": {
     "type": "git",
